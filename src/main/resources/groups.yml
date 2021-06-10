@@ -1,0 +1,19 @@
+# Groups #
+##########
+
+groups:
+  owner:
+    prefix: '&f[&4Owner&f] '
+    suffix: ''
+  admin:
+    prefix: '&f[&2Admin&f] '
+    suffix: ''
+  moderator:
+    prefix: '&f[&5Mod&f] '
+    suffix: ''
+users:
+  15504d5c-6f4d-467c-8a46-6698ebe95711: owner
+  9976c6e7-0a33-40c8-8f2b-80eb1c745b87: admin
+  e35d3c11-bb76-4832-8f28-baf40f8bda3b: moderator
+  fd64a373-3e15-4020-a3c3-f62ed06892ea: moderator
+  6dda20d4-a4fe-4c5f-bd43-c18284d94ff5: moderator

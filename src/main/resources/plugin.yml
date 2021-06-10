@@ -1,0 +1,5 @@
+main: net.urbanmc.bungeechat.BungeeChat
+name: BungeeChat
+version: 1.0
+author: Elian
+description: Allows for multiple chats between servers

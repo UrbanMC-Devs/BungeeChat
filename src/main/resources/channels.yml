@@ -1,0 +1,27 @@
+# BungeeChat by Elian #
+#######################
+
+# tutorial:
+#   name: # Channel name
+#     tag: '[channel]' # What shows up in the front of the message
+#     commands: [ch] # Commands you can use to enter/exit the channel & directly message to it
+#     color: 'f' # Color players speak in // Must be only 1 character!
+#     format: '%tag%&r %prefix%displayname%&r%suffix%&r: %message% # What it looks like when the message is sent
+#                                                       # Possible are: tag, displayname, username, message, prefix, suffix
+
+channels:
+  nwc:
+    tag: '&f[&6NWC&f]'
+    commands: [nwc, gc]
+    color: 'f'
+    format: ''
+  mod:
+    tag: '&f[&5MC&f]'
+    commands: [m, mc]
+    color: 'd'
+    format: ''
+  admin:
+    tag: '&f[&2AC&f]'
+    commands: [a, ac]
+    color: 'a'
+    format: ''
